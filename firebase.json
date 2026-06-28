@@ -1,0 +1,11 @@
+{
+  "flutter": {
+    "platforms": {
+      "android": {
+        "default": {
+          "projectId": "tracker-tournament"
+        }
+      }
+    }
+  }
+}
